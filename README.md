@@ -6,7 +6,7 @@ This is a class project for CIS 505 Software Systems (Fall 2021) at University o
 
 ## Languages used 
 
-Primarily, the entire code was written in C/C++. For rendering the pages, HTML, CSS and Bootstrap Libararies were used. 
+Primarily, the entire code was written in C/C++. For rendering the pages, HTML, CSS and Bootstrap was used. 
 
 ## Note 
 
